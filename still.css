@@ -1,0 +1,23 @@
+body{background-color: blueviolet}
+ul{list-style-type:none;
+display: flex;
+justify-content: space-between;}
+
+ul li{width: 20vw;
+background-color: chartreuse;
+font-size: 20pt;
+text-align: center;}
+
+ul li:hover{background-color: blueviolet;}
+ul li a{text-decoration: none;
+color: black;} 
+
+.icerik{width: 100v;
+background-color: aquamarine;}
+
+footer{width: 100vw;
+background-color: black;
+height: 10vh;}
+header{width: 100vw;
+background-color: black;
+height: 20vh;}   
